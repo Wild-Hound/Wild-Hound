@@ -1,4 +1,6 @@
-## Hi there I'm Yasin Khan [<a href="https://pixicodes.com/">Website</a>]
+<img src="./Happy2.png"/>
+
+## Take A Tour Of My Portfilio [<a href="https://pixicodes.com/">Website</a>]
 
 <img alt="GIF" src="https://readme-typing-svg.herokuapp.com?center=true&width=380&lines=React+Developer;React+Native+Developer;Full+Stack+Web+Developer;Self+taught+UI%2FUX+Designer;Always+learning+new+things" width="500" height="100"/>
 
