@@ -4,7 +4,7 @@
 
 ### I am a MERN stack web developer, and some notable technologies I use with react are: Typescript, Sass, Next.js & GraphQL
 
-<div style="background-color:white; max-width:fit-content; padding: 5px 5px 0 5px; margin:15px 0;">
+<div style="background-color:#fff; max-width:fit-content; padding: 5px 5px 0 5px; margin:15px 0;">
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nodedotjs.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" />
