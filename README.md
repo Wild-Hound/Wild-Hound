@@ -14,4 +14,5 @@
 <li>I love to learn new frameworks, especially if it is related to UI</li>
 <li>I am looking for others to collaborate with</li>
 </ul>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wild-Hound)](https://github.com/anuraghazra/github-readme-stats)
