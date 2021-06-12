@@ -43,4 +43,4 @@ You can reach me at <a href="https://www.facebook.com/profile.php?id=10005688623
 
 ## Some of my projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wild-Hound&repo=doctorV2&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wild-Hound&repo=doctorV2&theme=tokyonight)](https://github.com/Wild-Hound/doctorV2)
